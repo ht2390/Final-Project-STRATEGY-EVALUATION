@@ -59,4 +59,4 @@ Create one chart that shows:
 - Value of the Benchmark out-sample portfolio (normalized to 1.0 at the start)
 
 
-![image](https://github.com/ht2390/Final-Project-STRATEGY-EVALUATION/blob/main/exp1_in_sample.png)
+![image](https://github.com/ht2390/Final-Project-STRATEGY-EVALUATION/blob/main/exp1_out_sample.png)
