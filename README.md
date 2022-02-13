@@ -51,7 +51,7 @@ Create one chart that shows:
 - Value of the StrategyLearner in-sample portfolio (normalized to 1.0 at the start)
 - Value of the Benchmark in-sample portfolio (normalized to 1.0 at the start)
 
-![image](https://github.com/ht2390/Final-Project-STRATEGY-EVALUATION/blob/main/exp1_in_sample.png)
+![image](https://github.com/ht2390/Final-Project-STRATEGY-EVALUATION/blob/main/exwp1_in_sample.png)
 
 Create one chart that shows:
 - Value of the ManualStrategy out-sample portfolio (normalized to 1.0 at the start)
@@ -59,4 +59,4 @@ Create one chart that shows:
 - Value of the Benchmark out-sample portfolio (normalized to 1.0 at the start)
 
 
-![image](https://github.com/ht2390/Final-Project-STRATEGY-EVALUATION/blob/main/exp1_out_sample.png)
+![image](https://github.com/ht2390/Final-Project-STRATEGY-EVALUATION/blob/main/ewxp1_out_sample.png)
