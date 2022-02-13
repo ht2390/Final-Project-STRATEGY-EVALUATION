@@ -18,15 +18,11 @@ This final project contains 3 steps of work:
 
  - Below are the common choices for you. 
 
-  <details><summary>Learners type</summary>
-  <p>
-      -  Classification-based learner: Create a strategy using **Random Forest learner** from **Scikit-learn**
-      -  Reinforcement-based learner: Create a **Q-learning-based** strategy from **Scikit-learn**
-      -  Optimization-based learner: Create a **scan-based** strategy using an optimizer
-
-
-  </p>
-  </details>
+| Type | Description |
+| --- | --- |
+| Classification-based learner | Create a strategy using **Random Forest learner** from **Scikit-learn** |
+| Reinforcement-based learner| Create a **Q-learning-based** strategy from **Scikit-learn** |
+| Optimization-based learner| Create a **scan-based** strategy using an optimizer |
 
  - -  Classification-based learner: Create a strategy using **Random Forest learner** from **Scikit-learn**
  - -  Reinforcement-based learner: Create a **Q-learning-based** strategy from **Scikit-learn**
