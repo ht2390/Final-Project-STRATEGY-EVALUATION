@@ -16,19 +16,19 @@ This final project contains 3 steps of work:
 3. **Implement a Strategy Learner**
  - Created a machine-learning-model strategy learner by using **Scikit-learn** or building up your own codes. Then compare the performance with your manual startegy and benchmark strategy. 
 
+ - Below are the common choices for you. 
 
- <details><summary>CLICK ME</summary>
+ <details><summary>Learners type</summary>
 <p>
 
-#### We can hide anything, even code!
+####  -  Classification-based learner: Create a strategy using **Random Forest learner** from **Scikit-learn**
+      -  Reinforcement-based learner: Create a **Q-learning-based** strategy from **Scikit-learn**
+      -  Optimization-based learner: Create a **scan-based** strategy using an optimizer
 
-    ```ruby
-      puts "Hello World"
-    ```
 
 </p>
 </details>
- -  Below are the common choices for you. 
+
  - -  Classification-based learner: Create a strategy using **Random Forest learner** from **Scikit-learn**
  - -  Reinforcement-based learner: Create a **Q-learning-based** strategy from **Scikit-learn**
  - -  Optimization-based learner: Create a **scan-based** strategy using an optimizer
