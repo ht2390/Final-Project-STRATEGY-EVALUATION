@@ -3,6 +3,6 @@ The final project for  2022 Python for Machine Learning &amp; Data Science Maste
 
 ## Overview
 This final project contains 3 steps of work:
-indicator selection 
-Implement a Manual Strategy 
-Implement a Strategy Learner
+1. indicator selection 
+2. Implement a Manual Strategy 
+3. Implement a Strategy Learner
