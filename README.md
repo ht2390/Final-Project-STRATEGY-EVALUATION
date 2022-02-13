@@ -6,10 +6,10 @@ Congratulations on completing your study on Machine Learning Masterclass! This i
 
 ## Overview
 This final project contains 3 steps of work:
-1. indicator selection 
+1. ###indicator selection 
  - Technical indicators are very important signals for trading strategy. Choose at least 2 technical indicators from **indicators.py** or add your own technical indicators into it. You need to import **indicators.py** at your next step work.
  - It will be better if you can plot the specifically chosen indicators on your final comparing pictures.(Ie. Bollinger Bands) 
-2. Implement a Manual Strategy 
+2. ###Implement a Manual Strategy 
  - Using your intuition and the indicators selected above, create a manual rules-based strategy and test it against a stock using your market
-3. Implement a Strategy Learner
+3. ###Implement a Strategy Learner
  - Created a machine-learning-model strategy learner by using **Scikit-learn** or building up your own codes. Then compare the performance with your manual startegy and benchmark strategy. 
