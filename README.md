@@ -37,7 +37,7 @@ You should use the same indicators as you use in the Manual Strategy in Strategy
 - For your assignment, trade only the symbol **JPM**. This will enable us to more easily compare results.
 - You may use data from other symbols (such as SPY) to inform both your Manual Learner and Strategy Learner.
 - The **in-sample period(training period)** is **January 1, 2008 to December 31, 2009.**
-- The **out-of-sample/testing period** is **January 1, 2010 to December 31 2011.**
+- The **out-of-sample period(testing period)** is **January 1, 2010 to December 31 2011.**
 - Starting cash is **$100,000**.
 - Allowable positions are: **1000 shares long**, **1000 shares short**, **0 shares**.
 - Only buy/sell is allowed. stops, trailing stops, stoploss or any other trading setup is not allowed. 
