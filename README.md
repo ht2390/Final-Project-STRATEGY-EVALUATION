@@ -55,3 +55,5 @@ Create one chart that shows:
 - Value of the ManualStrategy out-sample portfolio (normalized to 1.0 at the start)
 - Value of the StrategyLearner out-sample portfolio (normalized to 1.0 at the start)
 - Value of the Benchmark out-sample portfolio (normalized to 1.0 at the start)
+
+![image](https://user-images.githubusercontent.com/15803101/143060687-5421cb5e-cfad-486d-9054-5604c16211e2.png)
