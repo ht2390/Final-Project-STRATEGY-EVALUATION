@@ -43,3 +43,14 @@ You should use the same indicators as you use in the Manual Strategy in Strategy
 - Only buy/sell is allowed. stops, trailing stops, stoploss or any other trading setup is not allowed. 
 - Benchmark: The performance of a portfolio starting with $100,000 cash, investing in 1000 shares of the symbol in use on the first trading day,  and holding that position. Include transaction costs.
 - There is no limit on leverage.
+
+## What to turn in 
+Create one chart that shows:
+- Value of the ManualStrategy in-sample portfolio (normalized to 1.0 at the start)
+- Value of the StrategyLearner in-sample portfolio (normalized to 1.0 at the start)
+- Value of the Benchmark in-sample portfolio (normalized to 1.0 at the start)
+
+Create one chart that shows:
+- Value of the ManualStrategy out-sample portfolio (normalized to 1.0 at the start)
+- Value of the StrategyLearner out-sample portfolio (normalized to 1.0 at the start)
+- Value of the Benchmark out-sample portfolio (normalized to 1.0 at the start)
