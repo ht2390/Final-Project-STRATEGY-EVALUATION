@@ -16,9 +16,9 @@ This final project contains 3 steps of work:
 3. **Implement a Strategy Learner**
  - Created a machine-learning-model strategy learner by using **Scikit-learn** or building up your own codes. Then compare the performance with your manual startegy and benchmark strategy. 
  -  Below are the common choices for you. 
- -- Classification-based learner: Create a strategy using **Random Forest learner** from **Scikit-learn**
- -- Reinforcement-based learner: Create a **Q-learning-based** strategy from **Scikit-learn**
- -- Optimization-based learner: Create a **scan-based** strategy using an optimizer
+ - - - Classification-based learner: Create a strategy using **Random Forest learner** from **Scikit-learn**
+ - - - Reinforcement-based learner: Create a **Q-learning-based** strategy from **Scikit-learn**
+ - - - Optimization-based learner: Create a **scan-based** strategy using an optimizer
 
  - Regardless of your choice above, your learner should work in the following way:
  - - In the training phase (e.g., add_evidence()) your learner will be provided with a stock symbol and a time period. It should use this data to learn a strategy. For instance, a classification-based learner will use this data to make predictions about future price changes.
