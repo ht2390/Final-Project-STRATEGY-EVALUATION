@@ -5,7 +5,7 @@ import pandas as pd
 from util import get_data, plot_data
 import matplotlib.pyplot as plt
 def author():
-        return 'htang63'
+        return 'your name here'
 
 def get_daily_return(df):
     daily_return = (df/df.shift(1)) - 1
