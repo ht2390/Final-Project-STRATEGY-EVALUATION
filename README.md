@@ -5,15 +5,15 @@ The final project for 2022 Python for Machine Learning &amp; Data Science Master
 Congratulations on completing your study on Machine Learning Masterclass! This is the final assignment to test your handling skills on Python, Numpy, Pandas, and **Scikit-learn**. You will need to implement your previous **marketsimcode** to generate comparing plots for different trading strategies.
 
 ## Overview
-This final project contains 3 steps of work:
-1. **indicator selection** 
+This final project contains 4 steps of work:
+1. **marketsimcode Modify** 
+- Based on previous assignment, modify your code into a closed packaged function. The input should be changed from the **orders.csv** file into a direct **trading data frame** and the output should be a **data frame of daily portfolio value**. 
+2. **indicator selection** 
  - Technical indicators are very important signals for trading strategy. Choose at least 2 technical indicators from **indicators.py** or add your own technical indicators into it. You need to import **indicators.py** at your next step work.
  - It will be better if you can plot the specifically chosen indicators on your final comparing pictures.(Ie. Bollinger Bands) 
-
-2. **Implement a Manual Strategy** 
+3. **Implement a Manual Strategy** 
  - Using your intuition and the indicators selected above, create a manual rules-based strategy and test it against a stock using your market
- 
-3. **Implement a Strategy Learner**
+4. **Implement a Strategy Learner**
  - Created a machine-learning-model strategy learner by using **Scikit-learn** or building up your own codes. Then compare the performance with your manual startegy and benchmark strategy. 
 
  - Below are the common choices for you. 
@@ -63,13 +63,13 @@ Create one chart that shows:
 ![image](https://github.com/ht2390/Final-Project-STRATEGY-EVALUATION/blob/main/example_code/exp1_out_sample.png)
 
 ## Suggested programming structure
-This project includes around 4-5 different function files. It is good to have a simple architecture plan, so that you can divide the project into small functions and conquer them separately. Here is the architecture I used to complete the task. Hope it brings you some inspiration.
+This project includes around 4-5 different function files. It is good to have a simple architecture plan so that you can divide the project into small functions and conquer them separately. Here is the architecture I used to complete the task. Hope it brings you some inspiration.
 
 - **testproject.py**: A simple empty main function to call the **in-sample-comparison** function and **out-sample-comparison** function
-- **experiment1.py**: It calls three strategy learners to do the trainings and pridictions. Then feed the dataframe into **marketsimcode.py** to get daily portfolio value. And then plot three portfolio curves and do some statistics calculations. 
-- **ManualStrategy.py**: The class file that defines manual trading rules and predit trading operations by **indicators**.
-- **StrategyLearner.py**: The class file that do the trading and predictions based on manchine learning model(Random Forest in my case)
+- **experiment1.py**: It calls three strategy learners to do the training and predictions. Then feed the data frame into **marketsimcode.py** to get daily portfolio value. And then plot three portfolio curves and do some statistics calculations. 
+- **ManualStrategy.py**: The class file that defines manual trading rules and predicts trading operations by **indicators**.
+- **StrategyLearner.py**: The class file that does the trading and predictions based on the machine learning model(Random Forest in my case)
 - **indicators.py**: A file include all the functions to calculate different indicators.
-- **marketsimcode.py**: A file that include one function: to take the trading orders as input and output the daily portfolio value.
+- **marketsimcode.py**: A file that includes one function: to take the trading orders as input and output the daily portfolio value.
 
 
