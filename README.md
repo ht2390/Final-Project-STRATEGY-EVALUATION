@@ -46,6 +46,7 @@ You should use the same indicators as you use in the Manual Strategy in Strategy
 
 ## What to turn in 
 Your code should run smoothly without bugs and automatically generate two plots
+
 Create one chart that shows:
 - Value of the ManualStrategy in-sample portfolio (normalized to 1.0 at the start)
 - Value of the StrategyLearner in-sample portfolio (normalized to 1.0 at the start)
