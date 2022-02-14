@@ -64,7 +64,7 @@ Create one chart that shows:
 ## Suggested programming structure
 This project includes around 4-5 different function files. It is good to have a simple architecture plan, so that you can divide the project into small functions and conquer them separately. Here is the architecture I used to complete the task. Hope it brings you some inspiration.
 
-- **testproject.py**: A simple main function to call the **in-sample-comparison** function and **out-sample-comparison** function
+- **testproject.py**: A simple empty main function to call the **in-sample-comparison** function and **out-sample-comparison** function
 - **experiment1.py**: It calls three strategy learners to do the trainings and pridictions. Then feed the dataframe into **marketsimcode.py** to get daily portfolio value. And then plot three portfolio curves and do some statistics calculations. 
 - **ManualStrategy.py**: The class file that defines manual trading rules and predit trading operations by **indicators**.
 - **StrategyLearner.py**: The class file that do the trading and predictions based on manchine learning model(Random Forest in my case)
