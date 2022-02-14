@@ -2,7 +2,7 @@
 The final project for 2022 Python for Machine Learning &amp; Data Science Masterclass
 
 ## Background
-Congratulations on completing your study on Machine Learning Masterclass! This is the final assignment to test your handling skills on Python, Numpy, Pandas, and **Scikit-learn**. You will need to implement your previous **marketsimcode** to generate comparing plots for different trading strategies. You can start your work based on the template we provide to you or you can just do everything by yourself.
+Congratulations on completing your study on Machine Learning Masterclass! This is the final assignment to test your handling skills on Python, Numpy, Pandas, and **Scikit-learn**. You will need to implement your previous **marketsimcode** to generate comparing plots for different trading strategies. You can start your work based on the template we provided or you can just do everything by yourself.
 
 ## Overview
 This final project contains 4 steps of work:
