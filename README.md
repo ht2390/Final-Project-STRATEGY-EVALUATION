@@ -74,3 +74,4 @@ This project includes around 4-5 different function files. It is good to have a 
 
 ![image](https://github.com/ht2390/Final-Project-STRATEGY-EVALUATION/blob/main/example_code/flowchart.png)
 
+
