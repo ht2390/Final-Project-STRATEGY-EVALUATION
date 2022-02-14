@@ -1,11 +1,4 @@
-"""
------do not edit anything above this line---  		  	   		   	 			  		 			     			  	  		 	  	 		 			  		  			
-  		  	   		   	 			  		 			     			  	  		 	  	 		 			  		  			
-Student Name: Haoyun Tang (replace with your name)  		  	   		   	 			  		 			     			  	  		 	  	 		 			  		  			
-GT User ID: htang63(replace with your User ID)  		  	   		   	 			  		 			     			  	  		 	  	 		 			  		  			
-GT ID: 903068557  (replace with your GT ID)  		  	   		   	 			  		 			     			  	  		 	  	 		 			  		  			
-"""
-
+  	   		   	 			  		 			     			  	  		 	  	 		 			  		  			
 import datetime as dt
 import os
 
@@ -15,7 +8,7 @@ import pandas as pd
 from util import get_data, plot_data
 
 def author():
-        return 'htang63'
+        return 'Your name here'
 
 
 def compute_portvals(
