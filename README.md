@@ -62,7 +62,7 @@ Create one chart that shows:
 ![image](https://github.com/ht2390/Final-Project-STRATEGY-EVALUATION/blob/main/example_code/example_out_sample.png)
 
 ## Suggested programming structure
-This project includes around 3-4 different function files. It is good to have a simple architecture plan, so that you can divide the project into small functions and conquer them separately. Here is the architecture I used to complete the task. Hope it brings you some inspiration.
+This project includes around 4-5 different function files. It is good to have a simple architecture plan, so that you can divide the project into small functions and conquer them separately. Here is the architecture I used to complete the task. Hope it brings you some inspiration.
 
 - **testproject.py**: A simple main function to call the **in-sample-comparison** function and **out-sample-comparison** function
 - **experiment1.py**: It calls three strategy learners to do the trainings and pridictions. Then feed the dataframe into **marketsimcode.py** to get daily portfolio value. And then plot three portfolio curves and do some statistics calculations. 
