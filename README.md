@@ -72,4 +72,5 @@ This project includes around 4-5 different function files. It is good to have a 
 - **indicators.py**: A file include all the functions to calculate different indicators.
 - **marketsimcode.py**: A file that includes one function: to take the trading orders as input and output the daily portfolio value.
 
+![image](https://github.com/ht2390/Final-Project-STRATEGY-EVALUATION/blob/main/example_code/flowchart.png)
 
